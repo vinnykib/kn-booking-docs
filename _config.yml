@@ -1,0 +1,12 @@
+title: KN Booking
+description: Step-by-step guides for the KN Booking appointment booking plugin for WordPress
+remote_theme: just-the-docs/just-the-docs
+baseurl: /kn-booking-docs
+url: https://vinnykib.github.io
+search_enabled: true
+aux_links:
+  "KN Booking on WordPress.org":
+    - "https://wordpress.org/plugins/knvinny-booking-suite/"
+heading_anchors: true
+color_scheme: light
+footer_content: "KN Booking. Guides for the free plugin."
