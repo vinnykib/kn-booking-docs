@@ -8,6 +8,8 @@ nav_order: 1
 
 KN Booking is a lightweight appointment booking calendar for WordPress, made for salons, barbershops and other small service businesses. These guides walk you through each feature with screenshots.
 
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/26bud6fg3Ps" title="KN Booking demo" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![Booking calendar on the front end](assets/images/booking-calendar.png)
 
 ## Start here
